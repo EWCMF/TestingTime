@@ -1,4 +1,4 @@
-com.android.example.testingtime
+com.android.example.timeapp
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -843,6 +843,7 @@ id tag_unhandled_key_listeners
 id text
 id text1
 id text2
+id text3
 id textSpacerNoButtons
 id textSpacerNoTitle
 id time

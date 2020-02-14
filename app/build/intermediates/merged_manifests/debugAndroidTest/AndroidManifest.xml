@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.android.example.testingtime.test" >
+    package="com.android.example.timeapp.test" >
 
     <uses-sdk
         android:minSdkVersion="15"
@@ -10,8 +10,8 @@
         android:name="androidx.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.android.example.testingtime"
-        android:targetPackage="com.android.example.testingtime" />
+        android:label="Tests for com.android.example.timeapp"
+        android:targetPackage="com.android.example.timeapp" />
 
     <uses-permission android:name="android.permission.REORDER_TASKS" />
 
